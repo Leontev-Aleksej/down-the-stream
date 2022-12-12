@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #b27f4e;
+}
+.right{
+        width: 450px;
+        margin-left: 0px;
+        padding: 20px;
+}
+main{
+    width: 820px;
+    padding: 20px;
+    padding-left: 40px;
+}
+.container{
+    display:flex;
+}
+.wrapper{
+    width: 1100px;
+    margin: 30px auto;
+    background-color: #ffff;
+}
+
+img{
+    width: 1100px;
+    height: 250px;
+    background-size: cover;
+    padding: 15px;
+}
+.sitename{
+    width: 1100px;
+    margin-bottom: -15px;
+    margin-left: 0px;
+    font: 30px Arial;
+    color: rgb(255, 255, 255);
+    background-color: #b27f4e;
+    padding-left:50px;
+    padding-bottom: 0px;
+    
+}
+.hed-list{
+    color: white;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+h2{
+    color: white;
+    background-color: rgb(21, 134, 134);
+    padding-left: 30px;
+    font: Arial;
+}
+h1{
+    color: #b27f4e;
+    font: Arial;
+}
+.grow{
+    color: white;
+}
+li{
+    padding-top: 10px;
+    list-style-type:none;
+}
+p{
+    line-height: 1.5;
+    padding: 10px;
+    padding-left: 0;
+}
+.sun{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.footer-text{
+    text-align: center;
+    background-color: rgba(111, 233, 127, 0.658);
+    margin: 10px;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+footer{
+    padding: 10px;
+}
+.under-h{
+    margin-bottom: -25px;
+}
+.menu{
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 10px;
+    
+}
+.menu a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    padding:20px;
+    background-color: black;
+    width: 218px;   
+    height: 58px;
+
+}
+.menu li{
+    display: inline;
+    margin-right: -5px;
+    
+}
+.menu a:hover{
+    background-color: rgb(33, 61, 59);
+}
+.moon{
+    background: rgb(230, 225, 225);
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.blood{
+    padding-bottom: 30px;
+}
+.zagolovok{
+    padding-left: 5px;
+    padding-right: 5px;
+}
